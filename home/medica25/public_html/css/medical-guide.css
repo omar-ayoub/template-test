@@ -75,10 +75,10 @@ h6 .small,
 
 -------------------------------------------------------------------*/
 
-/* .scrollable-list {
+.scrollable-list {
   overflow: scroll;
   height: 300px; /* set the height to a fixed value, or use max-height */
-} */
+}
 
 body {
   background: #fff;
@@ -1530,7 +1530,7 @@ img:hover {
 }
 
 /*..... CONTACT US ......*/
-.contact-us {
+/* .contact-us {
 }
 .contact-us .get-touch {
   padding: 90px 0;
@@ -1551,7 +1551,7 @@ img:hover {
   padding: 90px 0;
 }
 .contact-us .leave-msg .form {
-}
+} */
 .contact-us .leave-msg .form input[type="text"] {
   width: 100%;
   padding: 0 12px;
